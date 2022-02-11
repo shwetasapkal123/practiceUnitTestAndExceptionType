@@ -1,0 +1,8 @@
+C:\Users\user\Fellowship\Exception\ExceptionTest\ExceptionTest\bin\Debug\ExceptionTest.exe.config
+C:\Users\user\Fellowship\Exception\ExceptionTest\ExceptionTest\bin\Debug\ExceptionTest.exe
+C:\Users\user\Fellowship\Exception\ExceptionTest\ExceptionTest\bin\Debug\ExceptionTest.pdb
+C:\Users\user\Fellowship\Exception\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.csproj.AssemblyReference.cache
+C:\Users\user\Fellowship\Exception\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Fellowship\Exception\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Fellowship\Exception\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.exe
+C:\Users\user\Fellowship\Exception\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.pdb
