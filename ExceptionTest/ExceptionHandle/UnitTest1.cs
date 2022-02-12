@@ -60,7 +60,7 @@ namespace ExceptionHandle
             int actual=program.Divide(first, second);
 
             //Assert
-            Assert.AreSame(expected, actual);
+            Assert.AreEqual(expected, actual);
         }
         [TestMethod]
         public void TestMultiplication()
@@ -72,7 +72,7 @@ namespace ExceptionHandle
             int actual=program.Multiply(first, second);
 
             //Assert
-            Assert.AreSame (expected, actual);
+            Assert.AreEqual (expected, actual);
         }
     }
 }
