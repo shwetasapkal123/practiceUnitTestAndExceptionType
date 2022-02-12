@@ -36,6 +36,7 @@ namespace ExceptionHandle
             
         }
         [TestCategory("Subtraction")]
+        [TestMethod]
         public void TestSubtractionMethod()
         {
             //int first = 30;
@@ -49,6 +50,7 @@ namespace ExceptionHandle
             Assert.AreEqual(expected, actual);
         }
         [TestCategory ("Divide")]
+        [TestMethod]
         public void TestDivideMethod()
         {
             //Arrange
@@ -60,6 +62,7 @@ namespace ExceptionHandle
             //Assert
             Assert.AreSame(expected, actual);
         }
+        [TestMethod]
         public void TestMultiplication()
         {
             //Arrange
